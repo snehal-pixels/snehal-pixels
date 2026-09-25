@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Snehal 👋
 
-<!--
-**snehal-pixels/snehal-pixels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Information Technology student  
+💻 Aspiring Software Engineer  
+📚 Currently learning Java, DSA & Web Development
 
-Here are some ideas to get you started:
+### 🚀 Currently Working On
+- Strengthening Java fundamentals
+- Practicing Data Structures & Algorithms
+- Learning Web Development
+- Building projects and improving problem-solving skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies
+- Java
+- Data Structures & Algorithms
+- SQL
+- Git & GitHub
+- Web Development
+
+### 📌 Featured Repository
+- [Java Practice](https://github.com/snehal-pixels/java-practice) — My Java programming practice and learning repository.
+
+---
+
+⭐ This profile documents my journey toward becoming a Software Engineer.
