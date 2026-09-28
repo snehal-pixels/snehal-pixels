@@ -22,4 +22,5 @@
 
 ---
 
-⭐ This profile documents my journey toward becoming a Software Engineer.
+### 💻 Think. Code. Create.
+
